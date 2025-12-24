@@ -1,0 +1,6 @@
+ssid,password,security
+HomeNetwork,SecurePass123!,WPA2
+GuestWiFi,guest2024,WPA
+OfficeNet,CompanyPass456,WPA
+CafeWiFi,PublicAccess789,WPA2
+Conference_5G,Event2024Pass,WPA
